@@ -1,1 +1,0 @@
-import{Hn as e,Vn as t,i as n}from"./index-BqDSAwAO.js";var r=n();function i({onClick:n,disabled:i}){let{t:a}=t();return(0,r.jsx)(`button`,{type:`button`,className:`icon-plain icon-plain--light hint-btn`,onClick:n,disabled:i,"aria-label":a(`game.hint`),children:(0,r.jsx)(`img`,{src:e(`ui.hint`),alt:``})})}export{i as t};
