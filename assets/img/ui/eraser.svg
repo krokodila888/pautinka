@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Стереть: ластик. Заменяемая заглушка (ключ ui.eraser). -->
+  <g stroke="#3B2614" stroke-width="6" stroke-linejoin="round">
+    <path d="M22 78 L70 30 L106 66 L72 100 L44 100 Z" fill="#F4A9B8"/>
+    <path d="M22 78 L46 54 L82 90 L72 100 L44 100 Z" fill="#FDE9B6"/>
+  </g>
+  <line x1="72" y1="104" x2="108" y2="104" stroke="#3B2614" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E7C1"/><stop offset="1" stop-color="#E9CF95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1200" fill="url(#bg)"/>
+  
+  <circle cx="800" cy="504" r="264" fill="#E0A526" stroke="#6E4422" stroke-width="22"/>
+  <text x="800" y="504" font-family="sans-serif" font-size="237.6" fill="#3B2614" text-anchor="middle" dominant-baseline="middle">✎</text>
+  <rect x="4" y="4" width="1592" height="1192" fill="none" stroke="#A86B32" stroke-width="8" stroke-dasharray="24 12" rx="16"/>
+  <text x="800" y="1100" font-family="sans-serif" font-size="100" font-weight="bold" fill="#3B2614" text-anchor="middle">story.ch07.1</text>
+</svg>

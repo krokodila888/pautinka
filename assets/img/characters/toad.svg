@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E7C1"/><stop offset="1" stop-color="#E9CF95"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  
+  <circle cx="256" cy="215.04" r="112.64" fill="#E0A526" stroke="#6E4422" stroke-width="9.386666666666667"/>
+  <text x="256" y="215.04" font-family="sans-serif" font-size="101.376" fill="#3B2614" text-anchor="middle" dominant-baseline="middle">☺</text>
+  <rect x="4" y="4" width="504" height="504" fill="none" stroke="#A86B32" stroke-width="8" stroke-dasharray="24 12" rx="16"/>
+  <text x="256" y="469" font-family="sans-serif" font-size="43" font-weight="bold" fill="#3B2614" text-anchor="middle">char.toad</text>
+</svg>

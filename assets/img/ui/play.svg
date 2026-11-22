@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- «Играть»: классическая кнопка Play. Заменяемая заглушка (ключ ui.play). -->
+  <defs>
+    <radialGradient id="g" cx="40%" cy="32%" r="70%">
+      <stop offset="0" stop-color="#FFE08A"/>
+      <stop offset="0.6" stop-color="#F2B93B"/>
+      <stop offset="1" stop-color="#C47F1C"/>
+    </radialGradient>
+  </defs>
+  <circle cx="64" cy="64" r="58" fill="url(#g)" stroke="#3B2614" stroke-width="6"/>
+  <path d="M50 36 L94 64 L50 92 Z" fill="#3B2614" stroke="#3B2614" stroke-width="6" stroke-linejoin="round"/>
+</svg>

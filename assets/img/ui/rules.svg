@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Правила: раскрытая книга. Заменяемая заглушка (ключ ui.rules). -->
+  <g stroke="#3B2614" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M64 30c-12-8-30-10-50-8v76c20-2 38 0 50 8z" fill="#F6E7C1"/>
+    <path d="M64 30c12-8 30-10 50-8v76c-20-2-38 0-50 8z" fill="#E9CF95"/>
+    <line x1="64" y1="30" x2="64" y2="106"/>
+    <g stroke-width="3.5">
+      <line x1="26" y1="42" x2="52" y2="45"/>
+      <line x1="26" y1="56" x2="52" y2="59"/>
+      <line x1="26" y1="70" x2="52" y2="73"/>
+      <line x1="76" y1="45" x2="102" y2="42"/>
+      <line x1="76" y1="59" x2="102" y2="56"/>
+      <line x1="76" y1="73" x2="102" y2="70"/>
+    </g>
+  </g>
+</svg>

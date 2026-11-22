@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Заметки: карандаш. Заменяемая заглушка (ключ ui.pencil). -->
+  <g stroke="#3B2614" stroke-width="6" stroke-linejoin="round">
+    <path d="M30 98 L36 76 L84 28 L100 44 L52 92 Z" fill="#F2B93B"/>
+    <path d="M84 28 L92 20 Q96 16 100 20 L108 28 Q112 32 108 36 L100 44 Z" fill="#E58A8A"/>
+    <path d="M30 98 L36 76 L52 92 Z" fill="#FDE9B6"/>
+  </g>
+  <path d="M30 98 L33 87 L41 95 Z" fill="#3B2614"/>
+</svg>

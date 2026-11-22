@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Подсказка: лампочка. Заменяемая заглушка (ключ ui.hint). -->
+  <g stroke="#3B2614" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="64" y1="6" x2="64" y2="16"/>
+    <line x1="22" y1="22" x2="29" y2="29"/>
+    <line x1="106" y1="22" x2="99" y2="29"/>
+    <line x1="6" y1="58" x2="16" y2="58"/>
+    <line x1="122" y1="58" x2="112" y2="58"/>
+    <path d="M64 26c-18 0-32 14-32 32 0 12 6 20 12 26 4 4 6 8 6 12h28c0-4 2-8 6-12 6-6 12-14 12-26 0-18-14-32-32-32z" fill="#F2D23C"/>
+    <path d="M54 70c4 6 16 6 20 0" fill="none"/>
+    <rect x="48" y="96" width="32" height="10" rx="4" fill="#C47F1C"/>
+    <rect x="52" y="106" width="24" height="10" rx="4" fill="#A86B32"/>
+  </g>
+</svg>

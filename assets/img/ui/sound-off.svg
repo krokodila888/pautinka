@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Звук выключен: перечёркнутая нотка. Заменяемая заглушка (ключ ui.soundOff). -->
+  <g stroke="#3B2614" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" opacity="0.75">
+    <path d="M52 92 V24 L104 14 V80" fill="none"/>
+    <path d="M52 24 L104 14 V32 L52 42 Z" fill="#C9B79C"/>
+    <ellipse cx="38" cy="94" rx="18" ry="14" fill="#C9B79C"/>
+    <ellipse cx="90" cy="82" rx="18" ry="14" fill="#C9B79C"/>
+  </g>
+  <path d="M16 16 L112 112" stroke="#3B2614" stroke-width="16" stroke-linecap="round"/>
+  <path d="M16 16 L112 112" stroke="#A23B2A" stroke-width="9" stroke-linecap="round"/>
+</svg>
