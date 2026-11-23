@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <!-- Отменить: стрелка назад. Заменяемая заглушка (ключ ui.undo). -->
-  <path d="M40 58 H78 A22 22 0 0 1 78 102 H52" fill="none" stroke="#3B2614" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M52 34 L26 58 L52 82" fill="none" stroke="#3B2614" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>

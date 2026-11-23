@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <!-- Звук включён: нотка. Заменяемая заглушка (ключ ui.soundOn). -->
-  <g stroke="#3B2614" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
-    <path d="M52 92 V24 L104 14 V80" fill="none"/>
-    <path d="M52 24 L104 14 V32 L52 42 Z" fill="#F2B93B"/>
-    <ellipse cx="38" cy="94" rx="18" ry="14" fill="#F2B93B"/>
-    <ellipse cx="90" cy="82" rx="18" ry="14" fill="#F2B93B"/>
-  </g>
-</svg>

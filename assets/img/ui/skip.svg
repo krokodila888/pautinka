@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <!-- «Пропустить»: два треугольника и черта (⏭). Заменяемая заглушка (ключ ui.skip). Рисуется и на тёмной шапке, и на светлом фоне. -->
-  <g stroke="#3B2614" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" fill="#F2B93B">
-    <path d="M14 30 L58 64 L14 98 Z"/>
-    <path d="M56 30 L100 64 L56 98 Z"/>
-    <rect x="102" y="28" width="14" height="72" rx="5"/>
-  </g>
-</svg>

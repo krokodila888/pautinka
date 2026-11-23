@@ -1,1 +1,0 @@
-import{Vn as e}from"./index-BZmrx4bL.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};

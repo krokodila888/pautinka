@@ -1,0 +1,1 @@
+import{It as e}from"./RoundAction-CysaQCKi.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};
