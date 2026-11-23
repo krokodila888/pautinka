@@ -1,0 +1,1 @@
+import{Bn as e,Vn as t,i as n}from"./index-BZmrx4bL.js";var r=n();function i({onClick:n,disabled:i}){let{t:a}=e();return(0,r.jsx)(`button`,{type:`button`,className:`icon-plain icon-plain--light hint-btn`,onClick:n,disabled:i,"aria-label":a(`game.hint`),children:(0,r.jsx)(`img`,{src:t(`ui.hint`),alt:``})})}export{i as t};
