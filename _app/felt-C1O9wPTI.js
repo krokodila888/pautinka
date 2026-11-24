@@ -1,0 +1,1 @@
+import{Lt as e}from"./RoundAction-8UmRwosJ.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};

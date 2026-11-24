@@ -1,1 +1,0 @@
-import{r as e,rn as t,tn as n}from"./RoundAction-Bi070y0S.js";var r=t(n(),1);function i(t){let n=(0,r.useRef)(t);(0,r.useEffect)(()=>{t!==null&&t!==n.current&&(n.current=t,t===`win`?e.win():t===`loss`&&e.loss())},[t])}export{i as t};
