@@ -1,0 +1,1 @@
+import{Yt as e}from"./RoundAction-CPwYCHOo.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};

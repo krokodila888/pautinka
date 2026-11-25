@@ -1,0 +1,1 @@
+import{hn as e,n as t,pn as n}from"./RoundAction-CPwYCHOo.js";var r=e(n(),1);function i(e){let n=(0,r.useRef)(e);(0,r.useEffect)(()=>{e!==null&&e!==n.current&&(n.current=e,e===`win`?t.win():e===`loss`&&t.loss())},[e])}export{i as t};

@@ -1,1 +1,0 @@
-import{Wt as e}from"./RoundAction-CV-xwWZ2.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};
