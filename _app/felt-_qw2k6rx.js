@@ -1,0 +1,1 @@
+import{Yt as e}from"./RoundAction-CMEKNPER.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};
