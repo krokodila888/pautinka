@@ -1,1 +1,0 @@
-import{Zt as e,l as t}from"./RoundAction-DB8d5un0.js";var n=t();function r({faces:t,mood:r,label:i,className:a=``}){let o=t[r]??t.calm;return(0,n.jsx)(`div`,{className:`portrait ${a}`,role:`img`,"aria-label":i,children:(0,n.jsx)(`img`,{className:`portrait__img`,src:e(o),alt:``,draggable:!1},o)})}export{r as t};
