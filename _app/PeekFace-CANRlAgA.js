@@ -1,1 +1,0 @@
-import{Yt as e,l as t}from"./RoundAction-CPwYCHOo.js";var n=t();function r({faces:t,mood:r,label:i,side:a,anchor:o=`bottom`,className:s=``}){let c=t[r]??t.calm;return(0,n.jsx)(`div`,{className:`peek peek--${a} peek--${o} ${s}`,role:`img`,"aria-label":i,children:(0,n.jsx)(`img`,{className:`peek__img`,src:e(c),alt:``,draggable:!1},c)})}export{r as t};
