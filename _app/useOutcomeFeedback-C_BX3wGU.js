@@ -1,0 +1,1 @@
+import{$n as e,Zn as t,n}from"./RoundAction-B0Roph2p.js";var r=e(t(),1);function i(e){let t=(0,r.useRef)(e);(0,r.useEffect)(()=>{e!==null&&e!==t.current&&(t.current=e,e===`win`?n.win():e===`loss`?n.loss():n.draw())},[e])}export{i as t};

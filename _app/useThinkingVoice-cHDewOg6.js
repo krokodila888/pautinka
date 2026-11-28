@@ -1,0 +1,1 @@
+import{$n as e,Zn as t,c as n,u as r}from"./RoundAction-B0Roph2p.js";var i=e(t(),1);function a(e,t){(0,i.useEffect)(()=>{if(t!==`thinking`||!n(e))return;let i=window.setTimeout(()=>r(),600);return()=>window.clearTimeout(i)},[e,t])}export{a as t};

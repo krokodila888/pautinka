@@ -1,0 +1,1 @@
+import{jn as e}from"./RoundAction-B0Roph2p.js";var t={"--felt":`url(${e(`table.felt`)})`};export{t};

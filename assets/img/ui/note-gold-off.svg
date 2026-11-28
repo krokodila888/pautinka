@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2b0"/>
+      <stop offset="0.45" stop-color="#f2c14e"/>
+      <stop offset="1" stop-color="#b07a18"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.55">
+  <g fill="#5a3a06" stroke="#5a3a06" stroke-width="5" stroke-linejoin="round">
+    <polygon points="24,12 52,5 52,14 24,21"/>
+    <rect x="24" y="12" width="4.5" height="34"/>
+    <rect x="47.5" y="6" width="4.5" height="34"/>
+    <ellipse cx="19" cy="46" rx="8.5" ry="6.2" transform="rotate(-22 19 46)"/>
+    <ellipse cx="43" cy="40" rx="8.5" ry="6.2" transform="rotate(-22 43 40)"/>
+  </g>
+  <g fill="url(#g)">
+    <polygon points="24,12 52,5 52,14 24,21"/>
+    <rect x="24" y="12" width="4.5" height="34"/>
+    <rect x="47.5" y="6" width="4.5" height="34"/>
+    <ellipse cx="19" cy="46" rx="8.5" ry="6.2" transform="rotate(-22 19 46)"/>
+    <ellipse cx="43" cy="40" rx="8.5" ry="6.2" transform="rotate(-22 43 40)"/>
+  </g>
+  </g>
+  <line x1="9" y1="9" x2="55" y2="55" stroke="#5a3a06" stroke-width="7" stroke-linecap="round"/>
+  <line x1="9" y1="9" x2="55" y2="55" stroke="#f2c14e" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

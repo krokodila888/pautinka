@@ -1,0 +1,1 @@
+import{d as e,jn as t}from"./RoundAction-B0Roph2p.js";import{t as n}from"./useThinkingVoice-cHDewOg6.js";var r=e();function i({faces:e,mood:i,label:a,className:o=``}){let s=e[i]??e.calm;return n(e,i),(0,r.jsx)(`div`,{className:`portrait ${o}`,role:`img`,"aria-label":a,children:(0,r.jsx)(`img`,{className:`portrait__img`,src:t(s),alt:``,draggable:!1},s)})}export{i as t};
